@@ -268,7 +268,7 @@ button:focus {
 
 .home-content {
   padding: 15rem 0 15rem !important;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   text-align: left;
 }
 /* 
@@ -285,18 +285,18 @@ button:focus {
 }
 
 .main-name {
-  color: #000000;
+  color: #ffffff;
 }
 
 .Typewriter__wrapper {
   font-size: 2em !important;
-  color: #000000 !important;
+  color: #ffffff !important;
   padding-left: 50px !important;
   /* font-weight: 600 !important; */
 }
 .Typewriter__cursor {
   font-size: 2em !important;
-  color: #000000 !important;
+  color: #ffffff !important;
 }
 
 @media (max-width: 767px) {
