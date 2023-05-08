@@ -142,9 +142,9 @@ button:focus {
 
 @media (max-width: 767px) {
   .navbar {
-    padding: 4rem 1rem !important;  
-    font-size: 1.4rem !important;
-    background-color: #000000e9 !important;
+    padding: 1rem 1rem 1rem 1rem !important;  
+    font-size: 1rem !important;
+    background-color: #101010f0 !important;
   }
   .navbar-nav .nav-item a::after {
     display: none !important;
@@ -155,10 +155,10 @@ button:focus {
 }
 
 .logo {
-  height: 4.5em !important;
+  height: 2.5em !important;
   /* width: 5em !important; */
-  margin-left: 1rem;
-  margin-top: -1em;
+  margin-left: 0.5rem;
+  margin-top: 0rem;
 }
 
 .navbar-nav .nav-link {
@@ -173,7 +173,7 @@ button:focus {
 
 @media (max-width: 767px) {
   .nav-link {
-    padding: 0.7rem 1rem !important;
+    padding: 0.7rem 1rem 1rem !important;
   }
 }
 
