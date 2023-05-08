@@ -142,9 +142,9 @@ button:focus {
 
 @media (max-width: 767px) {
   .navbar {
-    padding: 1rem 1rem 1rem 1rem !important;  
-    font-size: 1rem !important;
-    background-color: #101010f0 !important;
+    padding: 1rem 2rem !important;
+    font-size: 1.4rem !important;
+    background-color: #181a2700 !important;
   }
   .navbar-nav .nav-item a::after {
     display: none !important;
@@ -155,10 +155,10 @@ button:focus {
 }
 
 .logo {
-  height: 2.5em !important;
+  height: 4.5em !important;
   /* width: 5em !important; */
-  margin-left: 0.5rem;
-  margin-top: 0rem;
+  margin-left: -0.5em;
+  margin-top: 1em;
 }
 
 .navbar-nav .nav-link {
@@ -173,7 +173,7 @@ button:focus {
 
 @media (max-width: 767px) {
   .nav-link {
-    padding: 0.7rem 1rem 1rem !important;
+    padding: 0.7rem 1rem !important;
   }
 }
 
@@ -289,6 +289,14 @@ button:focus {
 .main-name {
   color: #ffffff;
 }
+
+
+@media (max-width: 767px) {
+  .heading-name {
+    margin-top: -12rem;
+    padding-right: 2rem;
+  }
+} 
 
 .Typewriter__wrapper {
   font-size: 2em !important;
