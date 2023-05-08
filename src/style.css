@@ -144,7 +144,7 @@ button:focus {
   .navbar {
     padding: 1rem 2rem !important;
     font-size: 1.4rem !important;
-    background-color: #181a27 !important;
+    background-color: #181a2700 !important;
   }
   .navbar-nav .nav-item a::after {
     display: none !important;
@@ -289,6 +289,14 @@ button:focus {
 .main-name {
   color: #ffffff;
 }
+
+
+@media (max-width: 767px) {
+  .heading-name {
+    margin-top: -12rem;
+    padding-right: 2rem;
+  }
+} 
 
 .Typewriter__wrapper {
   font-size: 2em !important;
