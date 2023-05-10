@@ -1,7 +1,7 @@
 # Developer Portfolio
 
 ### Home Page 
-![preview](/src/assets/demo-1.png)
+![preview](/src/Assets/Projects/demo-1.png)
 
 ## 𝘼𝙪𝙩𝙝𝙤𝙧: 𝙉𝙚𝙨𝙨𝙖 𝙆𝙤𝙙𝙤 - 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧
 
