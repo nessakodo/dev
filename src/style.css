@@ -164,16 +164,18 @@ button:focus {
 @media (max-width: 767px) {
   .navbar {
     padding: 1rem 2rem !important;
-    background-color: rgba(0, 0, 0, 0.684) !important;
+    background-color: rgba(0, 0, 0, 0.39) !important;
     backdrop-filter: blur(10px) !important;
     font-size: 1.2rem !important;
-    margin-right: 1.2rem;
+    /* margin-right: 1.2rem; */
 
   }
   .navbar-nav .nav-item a::after {
     display: none !important;
     
   }
+
+  
 }
 .navbar-brand {
   color: rgb(250, 250, 250) !important;
