@@ -167,6 +167,7 @@ button:focus {
     background-color: rgba(0, 0, 0, 0.099) !important;
     backdrop-filter: blur(10px) !important;
     font-size: 1.2rem !important;
+    
   }
   .navbar-toggler {
     margin-top: 1.3rem;
